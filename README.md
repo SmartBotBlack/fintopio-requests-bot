@@ -1,6 +1,6 @@
 # Fintopio Telegram Game Bot
 
-This repository contains scripts for automating the Fintopio game on Telegram. The scripts are developed by the Monomy Crypto Team.
+This repository contains scripts for automating the [Fintopio](https://fintop.io/6fZvhdh) game on Telegram. The scripts are developed by the Monomy Crypto Team.
 
 The script does:
 - Collect daily bonus.
